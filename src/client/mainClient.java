@@ -28,7 +28,7 @@ public class mainClient {
       System.out.println("Message : ");
       msg = in.readLine();
     }
-    System.out.println("Fin.");
+    System.out.println("Fin!");
   }
 
 }
